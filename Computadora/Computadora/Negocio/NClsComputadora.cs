@@ -8,6 +8,8 @@ namespace Computadora.Negocio
     class NClsComputadora
 
     {
+        internal string Nombremicroprocesador;
+
         public String Apagar(ClsComputadora computadora)
         {
             
@@ -15,6 +17,12 @@ namespace Computadora.Negocio
 
 
         }
+
+        internal bool Encender(ClsComputadora clscomputadora)
+        {
+            throw new NotImplementedException();
+        }
+
         public String Almacenar(ClsComputadora computadora)
         {
             

@@ -1,0 +1,14 @@
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\netcoreapp3.1\Computadora.exe
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\netcoreapp3.1\Computadora.deps.json
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\netcoreapp3.1\Computadora.runtimeconfig.json
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\netcoreapp3.1\Computadora.runtimeconfig.dev.json
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\netcoreapp3.1\Computadora.dll
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\netcoreapp3.1\Computadora.pdb
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.csproj.AssemblyReference.cache
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.AssemblyInfoInputs.cache
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.AssemblyInfo.cs
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.csproj.CoreCompileInputs.cache
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.dll
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.pdb
+C:\Users\Español\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.genruntimeconfig.cache
