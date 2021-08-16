@@ -25,7 +25,11 @@ namespace Computadora.Negocio
             
             return "La computadora con un microfono " + computadora.Microfono + "y bocinas" + computadora.Bocinas + " tiene un excelente volumen";
         }
-        
+        public String EncenderComputadora(ClsComputadora computadora)
+        {
+            
+            return "La computadora con memoria Ram de "+computadora.Tamañoram+ "y microprocesador "+computadora.Nombremicroprocesador+" esta encendida";
+        }
     }
 }
 
