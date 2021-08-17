@@ -13,7 +13,8 @@ namespace Computadora.Negocio
         public String Apagar(ClsComputadora computadora)
         {
             
-            return "La computadora con tipo de " + computadora.Camara + "con un microprocesador  " + computadora.Nombremicroprocesador + " se esta apagando";
+            
+            return "La computadora con un tipo de tarjeta madre " + computadora.Nombreplacamadre + " y con un microprocesador  " + computadora.Nombremicroprocesador + " se esta apagando";
 
 
         }
@@ -35,8 +36,10 @@ namespace Computadora.Negocio
         }
         public String EncenderComputadora(ClsComputadora computadora)
         {
+            computadora.Tamañoram = 100;
+            computadora.Nombremicroprocesador = "Intel core 2 DUO";
             
-            return "La computadora con memoria Ram de "+computadora.Tamañoram+ "y microprocesador "+computadora.Nombremicroprocesador+" esta encendida";
+            return "La computadora con memoria RAM de "+computadora.Tamañoram+" GB  y microprocesador "+computadora.Nombremicroprocesador+" esta encendida";
         }
     }
 }
